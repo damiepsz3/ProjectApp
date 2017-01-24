@@ -5,6 +5,7 @@ public class CatalogoFotocopiadoras(){
 			//llamada a la bd que devuelve array de foto
 
 		} else {
+			
 			for (arrayFiltros : condiciones ) {
 				
 			}
